@@ -1,4 +1,5 @@
-# PROBLEM STATEMENT
+## PROBLEM STATEMENT
+
 396 Rotate Function
 Medium Level
 You are given an integer array nums of length n.
@@ -15,6 +16,7 @@ Example 1:
 
 Input: nums = [4,3,2,6]
 Output: 26
+
 Explanation:
 F(0) = (0 * 4) + (1 * 3) + (2 * 2) + (3 * 6) = 0 + 3 + 4 + 18 = 25
 F(1) = (0 * 6) + (1 * 4) + (2 * 3) + (3 * 2) = 0 + 4 + 6 + 6 = 16
@@ -28,11 +30,11 @@ Input: nums = [100]
 Output: 0
  
 
-# Constraints:
+## Constraints:
 
 . n == nums.length
 . 1 <= n <= 105
 . -100 <= nums[i] <= 100
 
-# Note: 
+## Note: 
        Problem Link: https://leetcode.com/problems/rotate-function/description/?envType=daily-question&envId=2026-05-01 
