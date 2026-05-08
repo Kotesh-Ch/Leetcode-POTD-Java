@@ -50,7 +50,7 @@ Output:
 ---
 
 ## Note:
-        Problem Link: https://leetcode.com/problems/rotate-function/description/?envType=daily-question&envId=2026-05-01
+        Problem Link: (https://leetcode.com/problems/rotate-function/description/?envType=daily-question&envId=2026-05-01)
 
 ## ⏱️ Complexity
 - Time: O(n)
