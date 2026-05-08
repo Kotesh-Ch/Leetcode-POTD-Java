@@ -24,4 +24,4 @@ Day-02/
 ## 🔥 Progress Tracker
 | Day | Problem | Status |
 |-----|--------|--------|
-| Day 01: Solved Maximum Rotation Function with optimized approach | - | ✅ |
+| Day 01 | Maximum Rotation Function | ✅ |
