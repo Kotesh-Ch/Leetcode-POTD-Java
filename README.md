@@ -25,3 +25,4 @@ Day-02/
 | Day | Problem | Status |
 |-----|--------|--------|
 | Day 01 | Maximum Rotation Function | ✅ |
+| Day-02 | Rotated Digits | ✅ |
